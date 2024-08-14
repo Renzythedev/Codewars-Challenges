@@ -7,4 +7,5 @@ This repository contains the algorithms and data structures problems I've solved
 In this repository, you will find Codewars problems solved at various difficulty levels. Each problem includes explanations, solutions, and test code.
 
 # Solved So Far:
-- **Goods Vs Evils (challenge1):** https://www.codewars.com/kata/52761ee4cffbc69732000738 
+- **Goods Vs Evils (challenge1):** https://www.codewars.com/kata/52761ee4cffbc69732000738
+- **Split String (challenge2):** https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
