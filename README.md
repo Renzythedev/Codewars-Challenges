@@ -15,3 +15,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Camel Case Converter (challenge6):** https://www.codewars.com/kata/517abf86da9663f1d2000003
 - **Your Order Please (challenge7):** https://www.codewars.com/kata/55c45be3b2079eccff00010f
 - **Calculating with Functions (challenge8):** https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
+- **Lottery Ticket (challenge9):** https://www.codewars.com/kata/57f625992f4d53c24200070e
