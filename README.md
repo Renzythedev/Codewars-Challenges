@@ -16,3 +16,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Your Order Please (challenge7):** https://www.codewars.com/kata/55c45be3b2079eccff00010f
 - **Calculating with Functions (challenge8):** https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
 - **Lottery Ticket (challenge9):** https://www.codewars.com/kata/57f625992f4d53c24200070e
+- **Highest and Lowest (challenge10):** https://www.codewars.com/kata/554b4ac871d6813a03000035
