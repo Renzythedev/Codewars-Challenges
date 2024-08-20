@@ -17,3 +17,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Calculating with Functions (challenge8):** https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
 - **Lottery Ticket (challenge9):** https://www.codewars.com/kata/57f625992f4d53c24200070e
 - **Highest and Lowest (challenge10):** https://www.codewars.com/kata/554b4ac871d6813a03000035
+- **The 'if' function (challenge11):** https://www.codewars.com/kata/54147087d5c2ebe4f1000805
