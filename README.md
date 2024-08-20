@@ -13,3 +13,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Next smaller number with the same digits (challenge4):** https://www.codewars.com/kata/5659c6d896bc135c4c00021e
 - **Email Validation (challenge5):** https://www.codewars.com/kata/52711e5cc961c233d0000048
 - **Camel Case Converter (challenge6):** https://www.codewars.com/kata/517abf86da9663f1d2000003
+- **Your Order Please (challenge7):** https://www.codewars.com/kata/55c45be3b2079eccff00010f
