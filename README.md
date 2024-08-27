@@ -21,3 +21,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Regular expression parser (challenge12):** https://www.codewars.com/kata/5470c635304c127cad000f0d
 - **Sudoku Solver (challenge13):** https://www.codewars.com/kata/5296bc77afba8baa690002d7
 - **Last (challenge14):** https://www.codewars.com/kata/541629460b198da04e000bb9
+- **Days in the year (challenge15):** https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
