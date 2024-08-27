@@ -23,3 +23,8 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Last (challenge14):** https://www.codewars.com/kata/541629460b198da04e000bb9
 - **Days in the year (challenge15):** https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
 - **Remove duplicates from list (challenge16):** https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
+- **Find the smallest integer in the array (challenge17):** https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+- **The highest protif wins! (challenge18):** https://www.codewars.com/kata/559590633066759614000063
+- **Descending Order (challenge19):** https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+- **Number to digit tiers (challenge20):** https://www.codewars.com/kata/586bca7fa44cfc833e00005c
+- **Sum of a sequance (challenge21):** https://www.codewars.com/kata/586f6741c66d18c22800010a
