@@ -19,3 +19,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Highest and Lowest (challenge10):** https://www.codewars.com/kata/554b4ac871d6813a03000035
 - **The 'if' function (challenge11):** https://www.codewars.com/kata/54147087d5c2ebe4f1000805
 - **Regular expression parser (challenge12):** https://www.codewars.com/kata/5470c635304c127cad000f0d
+- **Sudoku Solver (challenge13):** https://www.codewars.com/kata/5296bc77afba8baa690002d7
