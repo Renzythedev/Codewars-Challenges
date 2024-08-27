@@ -22,3 +22,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Sudoku Solver (challenge13):** https://www.codewars.com/kata/5296bc77afba8baa690002d7
 - **Last (challenge14):** https://www.codewars.com/kata/541629460b198da04e000bb9
 - **Days in the year (challenge15):** https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
+- **Remove duplicates from list (challenge16):** https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
