@@ -3,7 +3,7 @@ package challenge15;
 public final class DayInTheYear {
 
     public static int getDays(int day) {
-        return (day % 4 == 0) && (day % 100 == 0) && (day % 400 == 0) ? 366 : 365;
+        return (day % 4 == 0 &&(day % 100 != 0 || day % 400 == 0)) ? 366 :365;
     }
 
     public static void main(String[] args) {
