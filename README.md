@@ -28,3 +28,11 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Descending Order (challenge19):** https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 - **Number to digit tiers (challenge20):** https://www.codewars.com/kata/586bca7fa44cfc833e00005c
 - **Sum of a sequance (challenge21):** https://www.codewars.com/kata/586f6741c66d18c22800010a
+- **Between Extremes (challenge22):** https://www.codewars.com/kata/56d19b2ac05aed1a20000430
+- **Is this a triangle? (challenge23):** https://www.codewars.com/kata/56606694ec01347ce800001b
+- **Expressions matter (challenge24):** https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
+- **Binary Addition (challenge25):** https://www.codewars.com/kata/551f37452ff852b7bd000139
+- **My Language Skills (challenge26):** https://www.codewars.com/kata/5b16490986b6d336c900007d
+- **List filtering (challenge27):** https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
+- **Reverse Letter (challenge28):** https://www.codewars.com/kata/58b8c94b7df3f116eb00005b
+  
