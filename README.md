@@ -35,4 +35,10 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **My Language Skills (challenge26):** https://www.codewars.com/kata/5b16490986b6d336c900007d
 - **List filtering (challenge27):** https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 - **Reverse Letter (challenge28):** https://www.codewars.com/kata/58b8c94b7df3f116eb00005b
-  
+- **Number of trailing zeros of N! (challenge29):** https://www.codewars.com/kata/52f787eb172a8b4ae1000a34
+- **Are we alternate? (challenge30):** https://www.codewars.com/kata/59325dc15dbb44b2440000af
+- **Find the unique number (challenge31):** https://www.codewars.com/kata/585d7d5adb20cf33cb000235
+- **The Supermarket Queue (challenge32):** https://www.codewars.com/kata/57b06f90e298a7b53d000a86
+- **Parse bank account number (challenge33):** https://www.codewars.com/kata/597eeb0136f4ae84f9000001
+- **Some Egyptian fractions (challenge34):** https://www.codewars.com/kata/54f8693ea58bce689100065f
+- **A Simple Music Encoder (challenge35):** https://www.codewars.com/kata/58db9545facc51e3db00000a
