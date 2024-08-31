@@ -1,4 +1,4 @@
-![resim](https://github.com/user-attachments/assets/158c5d1a-1ae8-4ce7-b166-96f2ca94894f)# Codewars Solutions
+# Codewars Solutions
 
 This repository contains the algorithms and data structures problems I've solved on Codewars. I created this project to improve my problem-solving skills and to share what I've learned.
 
