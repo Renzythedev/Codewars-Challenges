@@ -1,4 +1,4 @@
-# Codewars Solutions
+![resim](https://github.com/user-attachments/assets/158c5d1a-1ae8-4ce7-b166-96f2ca94894f)# Codewars Solutions
 
 This repository contains the algorithms and data structures problems I've solved on Codewars. I created this project to improve my problem-solving skills and to share what I've learned.
 
@@ -42,3 +42,4 @@ In this repository, you will find Codewars problems solved at various difficulty
 - **Parse bank account number (challenge33):** https://www.codewars.com/kata/597eeb0136f4ae84f9000001
 - **Some Egyptian fractions (challenge34):** https://www.codewars.com/kata/54f8693ea58bce689100065f
 - **A Simple Music Encoder (challenge35):** https://www.codewars.com/kata/58db9545facc51e3db00000a
+- **Make a spiral (challenge36):** https://www.codewars.com/kata/534e01fbbb17187c7e0000c6
